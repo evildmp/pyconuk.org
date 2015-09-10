@@ -1,7 +1,7 @@
 type: session
-title: "All I really want is power"
-slug: "all-i-really-want-is-power"
-url: "talks/all-i-really-want-is-power/index.html"
+title: "What I really want is power"
+slug: "what-i-really-want-is-power"
+url: "talks/what-i-really-want-is-power/index.html"
 body_class_hack: talks
 ---
 
